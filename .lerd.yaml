@@ -1,0 +1,9 @@
+domains:
+  - termino
+php_version: "8.4"
+node_version: "22"
+framework: laravel
+framework_version: "11"
+secured: true
+services:
+  - mysql
